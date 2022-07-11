@@ -1,7 +1,6 @@
     GUESS THE NUMBER
 
-This is a project that I have managed to create based on a Udemy course that I'm taking - "The Complete JavaScript Course 2022: From Zero to Expert!
-". 
+   This is a project that I have managed to create based on a Udemy course that I'm taking - "The Complete JavaScript Course 2022: From Zero to Expert!"
 
     How to play
 
